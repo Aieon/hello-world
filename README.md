@@ -1,2 +1,3 @@
 # hello-world
-Bleh Bleh Blah Bloo!
+This is type 1 branch
+Bleh Bloo!
